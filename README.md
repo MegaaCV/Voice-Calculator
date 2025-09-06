@@ -42,17 +42,7 @@ SymPy
 CustomTkinter
  → GUI framework
 
-Threading → Background voice recognition
-
-# **📂 Project Structure**
-
-voice-calculator/
-│── main.py              # Final GUI + voice calculator
-│── basic_model.py       # Basic voice model
-│── custom_model.py      # Customized advanced model
-│── requirements.txt     # Dependencies
-│── README.md            # Documentation
-│── demo/                # Screenshots / GIFs
+Threading → Background voice recognition           
 
 # **💻 Installation & Usage**
 1. Clone the repo
