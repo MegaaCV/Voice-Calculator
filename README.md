@@ -56,9 +56,10 @@ Text: “5 plus 7 multiplied by 2” → Result: 19.0
 
 # **🚀 Future Enhancements**
 
-🔹 Unit Conversions → “convert 5 kilometers to miles”, “convert 32 °C to °F”
-🔹 Complex Expressions with Parentheses → “open bracket 5 plus 3 close bracket multiplied by 2” → 16
-🔹 Cross-Platform Deployment → Mobile app (Kivy/Flutter) or Web app (Flask/Django + React)
+🔹 Unit Conversions
+🔹 Deployment as Mobile or Web App:
+                Transform into a cross-platform mobile app (Flutter/Kivy) or
+                Deploy as a web-based calculator app for wider accessibility.
 
 # **📌 Applications**
 
