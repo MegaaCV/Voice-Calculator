@@ -58,8 +58,7 @@ voice-calculator/
 1. Clone the repo
 git clone https://github.com/MegaaCV/Voice-Calculator.git
 
-cd Voice-Calculator
-3. Install dependencies
+2. Install dependencies
 
 pip install -r requirements.txt
 
@@ -73,6 +72,9 @@ Voice: “cosine of 60” → Result: 0.5
 
 Text: “5 plus 7 multiplied by 2” → Result: 19.0
 # **📸 Demo**
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/928101fb-2f0e-465b-905c-ca2669860541" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/73e77c51-ca51-4134-a650-acdbed8726b0" />
 
 # **🚀 Future Enhancements**
 
