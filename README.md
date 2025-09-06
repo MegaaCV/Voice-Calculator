@@ -1,5 +1,5 @@
-#🎤 Smart Voice + Text Calculator
-#📌 Overview
+# **🎤 Smart Voice + Text Calculator**
+# **📌 Overview**
 
 This project is a hybrid calculator that supports both voice and text input for solving mathematical expressions.
 It evaluates basic arithmetic and advanced operations, displays results in a modern GUI, and also provides voice output.
@@ -10,7 +10,7 @@ Basic Model → Demonstrates fundamental speech-to-math functionality.
 
 Customized Model → Adds natural language preprocessing, advanced math support, GUI integration, and voice response.
 
-#⚙️ Features
+# **⚙️ Features**
 
 🎙️ Voice Input: Speak your math query (e.g., “sine of 30”).
 
@@ -26,7 +26,7 @@ Customized Model → Adds natural language preprocessing, advanced math support,
 
 ⚡ Threaded Voice Mode: Keeps the interface responsive while listening.
 
-#🛠️ Tech Stack
+# **🛠️ Tech Stack**
 
 Python 3.12+
 
@@ -44,7 +44,7 @@ CustomTkinter
 
 Threading → Background voice recognition
 
-#🎯 Example Usage
+# **🎯 Example Usage**
 
 Voice: “square root of 16” → Result: 4.0
 
@@ -54,13 +54,13 @@ Voice: “cosine of 60” → Result: 0.5
 
 Text: “5 plus 7 multiplied by 2” → Result: 19.0
 
-#🚀 Future Enhancements
+# **🚀 Future Enhancements**
 
 🔹 Unit Conversions → “convert 5 kilometers to miles”, “convert 32 °C to °F”
 🔹 Complex Expressions with Parentheses → “open bracket 5 plus 3 close bracket multiplied by 2” → 16
 🔹 Cross-Platform Deployment → Mobile app (Kivy/Flutter) or Web app (Flask/Django + React)
 
-#📌 Applications
+# **📌 Applications**
 
 Assistive tech for visually impaired users
 
