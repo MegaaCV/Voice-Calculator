@@ -44,7 +44,23 @@ CustomTkinter
 
 Threading → Background voice recognition
 
-# **🎯 Example Usage**
+📂 Project Structure
+
+voice-calculator/
+│── main.py              # Final GUI + voice calculator
+│── basic_model.py       # Basic voice model
+│── custom_model.py      # Customized advanced model
+│── requirements.txt     # Dependencies
+│── README.md            # Documentation
+│── demo/                # Screenshots / GIFs
+
+💻 Installation & Usage
+1. Clone the repo
+git clone https://github.com/MegaaCV/Voice-Calculator.git
+cd Voice-Calculator
+2. Install dependencies
+pip install -r requirements.txt
+🎯 Example Usage
 
 Voice: “square root of 16” → Result: 4.0
 
@@ -53,6 +69,7 @@ Voice: “sine of 30” → Result: 0.5
 Voice: “cosine of 60” → Result: 0.5
 
 Text: “5 plus 7 multiplied by 2” → Result: 19.0
+📸 Demo
 
 # **🚀 Future Enhancements**
 
